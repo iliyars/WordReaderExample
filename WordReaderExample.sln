@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordReaderExample", "WordReaderExample\WordReaderExample.csproj", "{D1E0A54E-3C5C-433D-AB49-861D91BEAD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1E0A54E-3C5C-433D-AB49-861D91BEAD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E0A54E-3C5C-433D-AB49-861D91BEAD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E0A54E-3C5C-433D-AB49-861D91BEAD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E0A54E-3C5C-433D-AB49-861D91BEAD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A97A53-4B36-4E19-B67A-B8378B359878}
+	EndGlobalSection
+EndGlobal
